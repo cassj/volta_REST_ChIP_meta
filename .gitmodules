@@ -1,0 +1,3 @@
+[submodule "mouse_ESC_REST_ChIPseq"]
+	path = mouse_ESC_REST_ChIPseq
+	url = git@github.com:cassj/mouse_ESC_REST_ChIPseq.git
