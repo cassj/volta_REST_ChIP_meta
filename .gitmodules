@@ -4,3 +4,6 @@
 [submodule "mouse_NSC_REST_ChIP"]
 	path = mouse_NSC_REST_ChIP
 	url = git@github.com:cassj/mouse_NSC_REST_ChIP.git
+[submodule "REST_ChIP_mouse_astrocytes_volta"]
+	path = REST_ChIP_mouse_astrocytes_volta
+	url = git@github.com:cassj/REST_ChIP_mouse_astrocytes_volta.git
