@@ -7,3 +7,6 @@
 [submodule "REST_ChIP_mouse_astrocytes_volta"]
 	path = REST_ChIP_mouse_astrocytes_volta
 	url = git@github.com:cassj/REST_ChIP_mouse_astrocytes_volta.git
+[submodule "Johnson_CHIPPET"]
+	path = Johnson_CHIPPET
+	url = git@github.com:cassj/Johnson_CHIPPET.git
