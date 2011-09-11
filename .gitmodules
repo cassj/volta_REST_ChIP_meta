@@ -10,3 +10,6 @@
 [submodule "Johnson_CHIPPET"]
 	path = Johnson_CHIPPET
 	url = git@github.com:cassj/Johnson_CHIPPET.git
+[submodule "DNREST_expression_mouse_astrocyte_volta"]
+	path = DNREST_expression_mouse_astrocyte_volta
+	url = git@github.com:cassj/DNREST_expression_mouse_astrocyte_volta.git
